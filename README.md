@@ -1,4 +1,4 @@
-# Configure vpn
+# Configure proxy
 
 ## For iphone
 - Download shadowrocket app

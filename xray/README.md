@@ -1,1 +1,1 @@
-- install 3x-ui and warp `curl -sSL https://raw.githubusercontent.com/Drednote/shadow-rocket/main/xray/install-3x-ui.sh`
+- install 3x-ui and warp `bash <(curl -sSL https://raw.githubusercontent.com/Drednote/shadow-rocket/main/xray/install-3x-ui.sh)`

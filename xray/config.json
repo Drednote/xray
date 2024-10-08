@@ -112,6 +112,14 @@
           "ggpht",
           "jetbrains"
         ]
+      },
+      {
+        "ip": [
+            "66.22.243.0/8",
+            "35.214.216.0/8"
+        ],
+        "outboundTag": "proxy",
+        "type": "field"
       }
     ]
   }

@@ -1,7 +1,5 @@
-apt update -y && apt ugrade -y
+apt update -y && apt upgrade -y
 apt install -y docker docker-compose
-
-bash <(curl -sSL https://raw.githubusercontent.com/hamid-gh98/x-ui-scripts/main/install_warp_proxy.sh)
 
 docker-compose up -d
 

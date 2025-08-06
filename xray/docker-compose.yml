@@ -3,9 +3,9 @@ version: "3"
 
 services:
   3x-ui:
-    image: ghcr.io/mhsanaei/3x-ui:v2.4.5
+    image: ghcr.io/mhsanaei/3x-ui:v2.5.8
     container_name: 3x-ui
-    hostname: yourhostname
+    hostname: blue-rate
     volumes:
       - $PWD/db/:/etc/x-ui/
       - $PWD/cert/:/root/cert/
